@@ -1,10 +1,8 @@
-### Hi, i'm Data Scientis 
+### Hi, i'm Miron Rodionov / Мирон Родионов 
 
-### Eugene Golovanov / Евгений Голованов
+Telegram: t.me/miru_miron
 
-Telegram: t.me/EugeneGolovanov
-
-Email: evsgolovanov@gmail.com
+Email: mir.on.rodionoff@yandex.ru
 
 Here you'll find my projects from the "Data Science Specialist" training program by Yandex.Praktikum
 
