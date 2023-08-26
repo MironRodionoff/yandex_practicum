@@ -1,7 +1,7 @@
 # Анализ текстов
 
-[md]((https://github.com/MironRodionoff/yandex_practicum/edit/main/Project_01/README%20.md))    
-[ipynb]((https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_01/Project_01.ipynb))
+[md](https://github.com/MironRodionoff/yandex_practicum/edit/main/Project_01/README%20.md)   
+[ipynb](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_01/Project_01.ipynb)
 
 ## Описание проекта
 
