@@ -1,6 +1,7 @@
 # Анализ текстов
 
-[md](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_03/README)    [ipynb](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_03/Project_03.ipynb)
+[md](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_03/README.md)    
+[ipynb](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_03/Project_03.ipynb)
 
 ## Описание проекта
 Рассмотреть и сравнить поведение пользователей двух тарифов
