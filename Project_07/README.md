@@ -1,7 +1,8 @@
 # Интернет-магазин комьютерных игр "Стримчик"
 # Выявить закономерности, определяющие успешность игры
 
-[md](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_03/README)    [ipynb](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_03/Project_03.ipynb)
+[md](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_07/README)    
+[ipynb](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_07/Project_07.ipynb)
 
 ## Описание проекта
 Для добывающей компании «ГлавРосГосНефть» нужно решить, где бурить новую скважину.
