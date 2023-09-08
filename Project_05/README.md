@@ -1,7 +1,7 @@
 # Мегалайн часть 2
 # Построить модель, рекомендующую тариф для клиента
 
-[md](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_05/README)    
+[md](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_05/README.md)    
 [ipynb](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_05/Project_05.ipynb)
 
 ## Описание проекта
