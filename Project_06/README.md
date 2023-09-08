@@ -1,8 +1,8 @@
 # Банк
 # Прогнозирование ухода клиента
 
-[md](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_05/README.md)    
-[ipynb](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_05/Project_05.ipynb)
+[md](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_06/README.md)    
+[ipynb](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_06/Project_06.ipynb)
 
 ## Описание проекта
 Отток клиентов
