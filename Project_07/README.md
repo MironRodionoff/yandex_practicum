@@ -1,7 +1,7 @@
 # Интернет-магазин комьютерных игр "Стримчик"
 # Выявить закономерности, определяющие успешность игры
 
-[md](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_07/README)    
+[md](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_07/README.md)    
 [ipynb](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_07/Project_07.ipynb)
 
 ## Описание проекта
