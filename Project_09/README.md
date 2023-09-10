@@ -1,8 +1,8 @@
 
 # Защита персональных данных клиентов
 
-[md](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_08/README.md)    
-[ipynb](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_08/Project_08.ipynb)
+[md](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_09/README.md)    
+[ipynb](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_09/Project_09.ipynb)
 
 ## Описание проекта
 # Защита персональных данных клиентов
