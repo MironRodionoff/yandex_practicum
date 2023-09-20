@@ -1,12 +1,12 @@
 
-# Определение токсичных комментариев
-## Машинное обучение для текстов
+# Временные ряды
 
 [md](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_11/README.md)    
 [ipynb](https://github.com/MironRodionoff/yandex_practicum/blob/main/Project_11/Project_11.ipynb)
 
-## Описание проекта
 # Построить модель, предсказывающую количество заказов такси на следующий час.
+
+### Описание проекта
 Значение метрики RMSE на тестовой выборке должно быть не больше 48.
 
 Нам нужно:
