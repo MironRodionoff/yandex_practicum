@@ -5,7 +5,7 @@ Telegram: t.me/miru_miron
 
 Email: mir.on.rodionoff@yandex.ru
 
-Here you'll find my projects from the "Data Science Specialist" training program by Yandex.Praktikum
+Here you'll find my projects from the "Data Science Specialist" training program by Yandex.Praktiсum
 
 В этом репозитории собраны мои проекты из курса "Специалист по Data Science" Яндекс.Практикума
 
